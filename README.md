@@ -91,29 +91,20 @@ Once you have obtained your API key, you need to configure the project to use it
 
 3. In the URL, replace `YOUR_API_KEY` with the actual API key you obtained from The Guardian.
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+# 👩‍💻 Author
 
-## Contact
+**Ishpreet Singh**
 
-Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
 
 
-## Acknowledgements
 
-We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
+
